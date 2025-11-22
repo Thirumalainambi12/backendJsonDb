@@ -1,0 +1,435 @@
+{
+  "Users": [
+    {
+      "id": "1761636356018",
+      "name": "zz",
+      "password": "$2b$10$Dl9fsPbc38VFz8tW/ZZAFegKr5YuHXUmCd90MqBCzSORxtkaQqK3e",
+      "email": "zz"
+    },
+    {
+      "id": "1761811813135",
+      "name": "ZZ",
+      "password": "$2b$10$gv1A4jOX35U5DccvLwb28.tpa.pubhPZ9DgTJMY6.7q8Q8lxJDSku",
+      "email": "ZZ"
+    },
+    {
+      "id": "1761838865741",
+      "name": "zz",
+      "password": "$2b$10$ilKZN7rb8Lg9pIOBfRQBY.DiaNq/2w6Xtr8iKchw/fLhmGCOkwuG2",
+      "email": "knambi1201@gmail.com1"
+    },
+    {
+      "id": "1762168053293",
+      "name": "anath",
+      "password": "$2b$10$OUO49d3IFz6aLQeb.h2OieBNKHj182rscRAIW7j97whp8qUzg52HS",
+      "email": "qwe"
+    },
+    {
+      "id": "1762699444256",
+      "name": "Nambi",
+      "password": "$2b$10$ZHQc5Y2lCvEjy3/vbboBM.hfirt0Bg2lZUnoX7RpxCTfxskqUG.Wu",
+      "email": "Knambi"
+    }
+  ],
+  "Login": [
+    {
+      "id": "1",
+      "img": "/anime-img/Dargonball.jpg",
+      "name": "Dargonball",
+      "Language": "Subtitled",
+      "category": "Action"
+    },
+    {
+      "id": "2",
+      "img": "/anime-img/attackontitan.jpg",
+      "name": "Attack on Titan",
+      "Language": "Dubbed",
+      "category": "Drama"
+    },
+    {
+      "id": "3",
+      "img": "/anime-img/naruto.jpg",
+      "name": "Naruto",
+      "Language": "Subtitled",
+      "category": "Adventure"
+    },
+    {
+      "id": "4",
+      "img": "/anime-img/onepiece.jpg",
+      "name": "One Piece",
+      "Language": "Dubbed",
+      "category": "Fantasy"
+    },
+    {
+      "id": "5",
+      "img": "/anime-img/demonslayer.jpg",
+      "name": "Demon Slayer",
+      "Language": "Subtitled",
+      "category": "Historical"
+    }
+  ],
+  "Free": [
+    {
+      "id": 1,
+      "name": "Suzume",
+      "img": "/free/Suzume.jpg",
+      "video": "/video/Suzume).mp4",
+      "Genre": "free",
+      "description": "A 17-year-old girl named Suzume discovers a mysterious door in a ruined place. When she opens it, disasters begin appearing across Japan. With the help of a young man turned into a chair, she travels to close these doors and protect the world"
+    },
+    {
+      "id": 2,
+      "name": "Your Name",
+      "img": "/free/name.jpg",
+      "video": "/video/Name.mp4",
+      "Genre": "free",
+      "description": "Two strangers, a boy from Tokyo and a girl from a rural town, mysteriously begin switching bodies. As they live each other’s lives, they form a powerful connection that transcends time and space. When a sudden disaster threatens, they must find each other before it’s too late."
+    },
+    {
+      "id": 3,
+      "name": "Bubble",
+      "img": "/free/Bubble.jpg",
+      "video": "/video/Bubble.mp4",
+      "Genre": "free",
+      "description": "In a Tokyo where gravity has broken due to mysterious bubbles falling from the sky, parkour becomes the way of life for young survivors. Hibiki, a gifted but reckless jumper, meets a strange girl named Uta — and their encounter changes everything."
+    },
+    {
+      "id": 4,
+      "name": "Weathering with you",
+      "img": "/free/Weathering.jpg",
+      "video": "/video/Weathering.mp4",
+      "Genre": "free",
+      "description": "A runaway boy in Tokyo meets a girl who can control the weather. Together, they start a small business bringing sunshine to people’s lives — but her gift comes with a heavy price."
+    }
+  ],
+  "Action": [
+    {
+      "id": 1,
+      "name": "One Piece",
+      "img": "/action/onepi.png.jpg",
+      "Genre": "Action",
+      "video": "/video/ONEPIECE.mp4",
+      "description": "Monkey D. Luffy and his pirate crew set sail to find the legendary treasure, One Piece, and become the Pirate King."
+    },
+    {
+      "id": 2,
+      "name": "Black Clover",
+      "img": "/action/blackcover.png.jpg",
+      "Genre": "Action",
+      "video": "/video/BlackClover.mp4",
+      "description": "Asta, a boy born without magic, dreams of becoming the Wizard King in a world full of magic users."
+    },
+    {
+      "id": 3,
+      "name": "My Hero Academia",
+      "img": "/action/myhero.png.jpg",
+      "Genre": "Action",
+      "video": "/video/MyHero.mp4",
+      "description": "In a world where most people have superpowers, a powerless boy enrolls in a hero academy to become the greatest hero."
+    },
+    {
+      "id": 4,
+      "name": "Bleach",
+      "img": "/action/bleach.png.jpg",
+      "Genre": "Action",
+      "video": "/video/BLEACH.mp4",
+      "description": "Ichigo Kurosaki gains the powers of a Soul Reaper and protects the world from evil spirits known as Hollows."
+    },
+    {
+      "id": 5,
+      "name": "Jujutsu Kaisen",
+      "img": "/action/jujutusu.png.jpg",
+      "Genre": "Action",
+      "video": "/video/JUJUTSU.mp4",
+      "description": "Yuji Itadori becomes involved in a secret organization that fights cursed spirits after swallowing a powerful curse."
+    },
+    {
+      "id": 6,
+      "name": "Naruto",
+      "img": "/action/naruto.png.jpg",
+      "Genre": "Action",
+      "video": "/video/Naruto.mp4",
+      "description": "Naruto Uzumaki, a young ninja, dreams of becoming the Hokage while carrying the spirit of a powerful demon fox inside him."
+    },
+    {
+      "id": 7,
+      "name": "Demon Slayer",
+      "img": "/action/demonslayer.png.jpg",
+      "Genre": "Action",
+      "video": "/video/DemonSlayer.mp4",
+      "description": "Tanjiro Kamado becomes a demon slayer to avenge his family and save his sister who turned into a demon."
+    },
+    {
+      "id": 8,
+      "name": "Attack on Titan",
+      "img": "/action/attackontitan.png.jpg",
+      "Genre": "Action",
+      "video": "/video/AttackonTitan.mp4",
+      "description": "Humanity fights for survival inside walls to protect themselves from giant man-eating Titans."
+    }
+  ],
+  "Drama": [
+    {
+      "id": 1,
+      "name": "3D Kanojo",
+      "img": "/Drama/3d.png.jpg",
+      "Genre": "Drama",
+      "video": "/video/3D Kanojo.mp4",
+      "description": "A shy otaku unexpectedly finds love with a popular girl who changes his life forever."
+    },
+    {
+      "id": 2,
+      "name": "Oshi No Ko",
+      "img": "/Drama/oshinoki.png.jpg",
+      "Genre": "Drama",
+      "video": "/video/OshiNoKo.mp4",
+      "description": "A doctor and his patient are reincarnated as the children of a famous idol, uncovering dark secrets of the entertainment world."
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "img": "/Drama/orange.png.jpg",
+      "Genre": "Drama",
+      "video": "/video/Orange.mp4",
+      "description": "A girl receives letters from her future self, urging her to prevent a tragic event involving her new classmate."
+    },
+    {
+      "id": 4,
+      "name": "Erased",
+      "img": "/Drama/erased.jpg",
+      "Genre": "Drama",
+      "video": "/video/ERASED.mp4",
+      "description": "A man travels back in time to his childhood to prevent a series of kidnappings and murders."
+    },
+    {
+      "id": 5,
+      "name": "March Comes In Like A Lion",
+      "img": "/Drama/marchIn.png.jpg",
+      "Genre": "Drama",
+      "video": "/video/Marchcomes.mp4",
+      "description": "A young professional shogi player struggles with depression and loneliness while finding comfort in a kind family."
+    },
+    {
+      "id": 6,
+      "name": "Anohana",
+      "img": "/Drama/anohana.png.jpg",
+      "Genre": "Drama",
+      "video": "/video/AnoHana.mp4",
+      "description": "A group of childhood friends reunite to fulfill the wish of their deceased friend’s spirit."
+    },
+    {
+      "id": 7,
+      "name": "Your Lie In April",
+      "img": "/Drama/yourlie.png.jpg",
+      "Genre": "Drama",
+      "video": "/video/YourLie.mp4",
+      "description": "A piano prodigy rediscovers his love for music after meeting a free-spirited violinist."
+    },
+    {
+      "id": 8,
+      "name": "Violet Evergarden",
+      "img": "/Drama/vilot.png.jpg",
+      "Genre": "Drama",
+      "video": "/video/VioletEvergarden.mp4",
+      "description": "A former soldier learns to express emotions as she writes heartfelt letters for others."
+    }
+  ],
+  "Fantasy": [
+    {
+      "id": 1,
+      "name": "Mushoku Tensei",
+      "img": "/Fantasy/tensei.png.jpg",
+      "Genre": "Fantasy",
+      "video": "/video/ONEPIECE.mp4",
+      "description": "A jobless man is reincarnated in a magical world with all his memories, determined to live life to the fullest."
+    },
+    {
+      "id": 2,
+      "name": "Overlord",
+      "img": "/Fantasy/overlord.png.jpg",
+      "Genre": "Fantasy",
+      "video": "/video/Overlord.mp4",
+      "description": "A gamer becomes trapped in his favorite online game as an undead overlord, ruling his new world with absolute power."
+    },
+    {
+      "id": 3,
+      "name": "Black Clover",
+      "img": "/Fantasy/blackcover.png.jpg",
+      "Genre": "Fantasy",
+      "video": "/video/BlackClover.mp4",
+      "description": "Asta, born without magic, challenges fate to become the strongest mage in the kingdom."
+    },
+    {
+      "id": 4,
+      "name": "The Rising of The Shield Hero",
+      "img": "/Fantasy/therising.png.jpg",
+      "Genre": "Fantasy",
+      "video": "/video/ShieldHero.mp4",
+      "description": "A man is summoned to another world as the Shield Hero and must fight betrayal and monsters to survive."
+    },
+    {
+      "id": 5,
+      "name": "No Game No Life",
+      "img": "/Fantasy/nogame.png.jpg",
+      "Genre": "Fantasy",
+      "video": "/video/NoGame.mp4",
+      "description": "Two genius siblings are transported to a world where everything is decided by games."
+    },
+    {
+      "id": 6,
+      "name": "That Time I Got Reincarnated As A Slime",
+      "img": "/Fantasy/thattime.png.jpg",
+      "Genre": "Fantasy",
+      "video": "/video/ThatTime.mp4",
+      "description": "A man is reborn as a powerful slime in a fantasy world, gaining new powers and allies."
+    },
+    {
+      "id": 7,
+      "name": "Sword Art Online",
+      "img": "/Fantasy/sword.png.jpg",
+      "Genre": "Fantasy",
+      "video": "/video/swordArt.mp4",
+      "description": "Players trapped in a virtual reality MMORPG must clear the game to escape with their lives."
+    },
+    {
+      "id": 8,
+      "name": "Re:Zero",
+      "img": "/Fantasy/rezero.png.jpg",
+      "Genre": "Fantasy",
+      "video": "/video/Re_ZERO.mp4",
+      "description": "Subaru is transported to another world and discovers he can reset time whenever he dies."
+    }
+  ],
+  "Comedy": [
+    {
+      "id": 1,
+      "name": "Daily Lives Of High School Boys",
+      "img": "/comedy/dailylives.png.jpg",
+      "Genre": "Comedy",
+      "video": "/video/Dailylives.mp4",
+      "description": "A hilarious take on the everyday misadventures of three high school friends."
+    },
+    {
+      "id": 2,
+      "name": "Asobi Asobase",
+      "img": "/comedy/asobi.png.jpg",
+      "Genre": "Comedy",
+      "video": "/video/AsobiAsobase.mp4",
+      "description": "Three quirky girls start a club and get into bizarre, laugh-out-loud situations."
+    },
+    {
+      "id": 3,
+      "name": "Spy x Family",
+      "img": "/comedy/spyx.png.jpg",
+      "Genre": "Comedy",
+      "video": "/video/SPYxFAMILY.mp4",
+      "description": "A spy, an assassin, and a telepath pretend to be a family for a secret mission."
+    },
+    {
+      "id": 4,
+      "name": "Grand Blue",
+      "img": "/comedy/grandblue.png.jpg",
+      "Genre": "Comedy",
+      "video": "/video/GrandBlue.mp4",
+      "description": "College life turns into nonstop laughter as Iori joins a wild diving club."
+    },
+    {
+      "id": 5,
+      "name": "Nichijou",
+      "img": "/comedy/nichiujo.png.jpg",
+      "Genre": "Comedy",
+      "video": "/video/Nichijou.mp4",
+      "description": "A surreal and funny depiction of daily life filled with absurd events."
+    },
+    {
+      "id": 6,
+      "name": "Konosuba",
+      "img": "/comedy/konosuba.png.jpg",
+      "Genre": "Comedy",
+      "video": "/video/KONOSUBA.mp4",
+      "description": "A boy reincarnates in a fantasy world with a useless goddess and an eccentric party."
+    },
+    {
+      "id": 7,
+      "name": "The Disastrous Life Of Saiki Kusuo",
+      "img": "/comedy/saiki.png.jpg",
+      "Genre": "Comedy",
+      "video": "/video/Saiki.mp4",
+      "description": "A psychic high school student just wants a normal life, but chaos always follows him."
+    },
+    {
+      "id": 8,
+      "name": "Gintama",
+      "img": "/comedy/gitama.png.jpg",
+      "Genre": "Comedy",
+      "video": "/video/Gintama.mp4",
+      "description": "An eccentric samurai and his friends take odd jobs in an alien-invaded Edo period."
+    }
+  ],
+  "Romance": [
+    {
+      "id": 1,
+      "name": "Rent A Girlfriend",
+      "img": "/Romance/rentagf.png.jpg",
+      "Genre": "Romance",
+      "video": "/video/RentAGirlfriend.mp4",
+      "description": "After a breakup, a college student rents a girlfriend, only for things to get complicated."
+    },
+    {
+      "id": 2,
+      "name": "My Dress-up Darling",
+      "img": "/Romance/mydress.png.jpg",
+      "Genre": "Romance",
+      "video": "/video/MyDress.mp4",
+      "description": "A shy doll maker and a lively girl bond over their love for cosplay."
+    },
+    {
+      "id": 3,
+      "name": "Golden Time",
+      "img": "/Romance/goldentime.png.jpg",
+      "Genre": "Romance",
+      "video": "/video/GoldenTime.mp4",
+      "description": "A law student with amnesia starts a new life and falls in love, but his past returns."
+    },
+    {
+      "id": 4,
+      "name": "Fruits Basket",
+      "img": "/Romance/fruitbasket.png.jpg",
+      "Genre": "Romance",
+      "video": "/video/FruitBasket.mp4",
+      "description": "A kind girl befriends a cursed family who transform into animals of the zodiac."
+    },
+    {
+      "id": 5,
+      "name": "Kaichou Wa Maid-Sama",
+      "img": "/Romance/maidsama.png.jpg",
+      "Genre": "Romance",
+      "video": "/video/Kaichouwa.mp4",
+      "description": "A strong-willed student council president secretly works in a maid café and is discovered by a popular boy."
+    },
+    {
+      "id": 6,
+      "name": "Kaguya-Sama: Love is War",
+      "img": "/Romance/loveiswar.png.jpg",
+      "Genre": "Romance",
+      "video": "/video/Kaguyasama.mp4",
+      "description": "Two genius students try to make the other confess their love first in a hilarious battle of wits."
+    },
+    {
+      "id": 7,
+      "name": "Horimiya",
+      "img": "/Romance/horimiya.png.jpg",
+      "Genre": "Romance",
+      "video": "/video/Horimiya.mp4",
+      "description": "Two high school students discover each other's hidden sides and grow closer."
+    },
+    {
+      "id": 8,
+      "name": "Toradora",
+      "img": "/Romance/toradaro.png.jpg",
+      "Genre": "Romance",
+      "video": "/video/Toradora.mp4",
+      "description": "A short-tempered boy and a fierce girl team up to help each other find love."
+    }
+  ]
+}
