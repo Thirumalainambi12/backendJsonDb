@@ -2,4 +2,9 @@ Day1
 App.css
 dummyjson.json
 demo
-node_modules
+node_modules/
+videos/
+images/
+*.mp4
+*.zip
+*.rar
