@@ -1,12 +1,10 @@
 {
-  "name": "jsondb",
+  "name": "backendjsondb",
   "version": "1.0.0",
-  "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "json-server --watch db.json --port $PORT"
   },
   "dependencies": {
-    "json-server": "^0.17.4",
-    "json-server-auth": "^2.1.0"
+    "json-server": "^0.17.3"
   }
 }
